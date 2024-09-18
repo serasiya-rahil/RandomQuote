@@ -1,0 +1,10 @@
+﻿@model RandomQuote.Models.Quote
+<h1> This is the Other Page</h1><br />
+<p>This is just simply another page </p>
+
+<p>Return to <a asp-controller="Home" asp-action="Index"> Home Page</a> </p>
+<p><b> A quote to share...</b></p>
+<p>@Model.Text</p>
+
+<p>Quote Count: @ViewBag.QuoteCount</p>
+<b>By @Model.Author</b> 
