@@ -10,7 +10,7 @@ This is a simple **MVC web application** that generates random quotes along with
 - Can be extended to fetch quotes from an external API.
 
 ## Tech Stack
-- **Backend Framework:** ASP.NET MVC / Spring MVC / Django (based on your tech stack preference)
+- **Backend Framework:** ASP.NET MVC
 - **Frontend:** HTML, CSS, JavaScript
-- **Database (optional):** SQL or NoSQL for storing quotes (optional)
+- **Database (optional):** SQL or NoSQL for storing quotes (optional) -> Not used for this project
 - **Version Control:** GitHub
